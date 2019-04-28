@@ -1,11 +1,12 @@
-### Augment offer information
+### Augment job offer information
 Given the list of job offers (title, description and seniority level),
 some of the offers are missing the seniority level.
 
-Write an application which fills in the gaps - restores the missing seniority level.
+Here's an application which fills in the gaps - restores the missing seniority level.
 
-Extra:
+#### Contents:
 
-1. Explain the choice of language / technology stack.
-2. Explain the choice of approach and algorithm.
-3. Estimate quality of the result.
+1. Explaination of the choice of language / technology stack.
+2. Explaination of the choice of approach and algorithm.
+3. Estimation of quality of the result.
+4. Results comparison and evaluation #confusion_matrix #precision-accuracy-f1 scores
