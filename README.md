@@ -9,4 +9,9 @@ Here's an application which fills in the gaps - restores the missing seniority l
 1. Explaination of the choice of language / technology stack.
 2. Explaination of the choice of approach and algorithm.
 3. Estimation of quality of the result.
-4. Results comparison and evaluation #confusion_matrix #precision-accuracy-f1 scores
+4. Results comparison and evaluation 
+- #word movers distance #semantic similarity #confusion_matrix #precision-accuracy-f1 scores
+
+#### Data: data.json
+
+#### results: augmented data - wmd_data.json, tfidf.json
